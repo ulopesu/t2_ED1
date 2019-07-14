@@ -1,0 +1,16 @@
+incluirpessoas
+4
+1 Pessoa1
+2 Pessoa2
+3 Pessoa3
+4 Pessoa4
+inserirpessoa
+1 1
+inserirpessoa
+2 1
+inserirpessoa
+3 2
+inserirpessoa
+4 2
+exibir
+fim

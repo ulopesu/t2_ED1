@@ -1,0 +1,23 @@
+incluirpessoas
+3
+1 Pessoa1
+2 Pessoa2
+1 Pessoa3
+3 Pessoa3
+inserirpessoa
+1 1
+inserirpessoa
+2 1
+inserirpessoa
+3 1
+sim
+3 5
+sim
+3 2
+inserirpessoa
+3 2
+sim
+5 2
+nao
+exibir
+fim

@@ -1,0 +1,48 @@
+incluirpessoas
+15
+1 Pessoa1
+2 Pessoa2
+3 Pessoa3
+4 Pessoa4
+5 Pessoa5
+6 Pessoa6
+7 Pessoa7
+8 Pessoa8
+9 Pessoa9
+10 Pessoa10
+11 Pessoa11
+12 Pessoa12
+13 Pessoa13
+14 Pessoa14
+15 Pessoa15
+inserirpessoa
+1 1
+inserirpessoa
+2 1
+inserirpessoa
+3 2
+inserirpessoa
+4 2
+inserirpessoa
+5 3
+inserirpessoa
+6 3
+inserirpessoa
+7 4
+inserirpessoa
+8 4
+inserirpessoa
+9 5
+inserirpessoa
+10 5
+inserirpessoa
+11 6
+inserirpessoa
+12 6
+inserirpessoa
+13 7
+exibir
+inserirpessoa
+14 7
+exibir
+fim

@@ -1,0 +1,144 @@
+
+               Seja Bem Vindo ao Sistema 8 BOLAS!!!
+
+
+Digite a funcao que deseja realizar e os parametros para que ela funcione, as posiveis funcoes sao:
+1) Incluir pessoas no sistema. Exemplo: incluirpessoas
+2) Inserir pessoa em aviao. Exemplo: inserirpessoa
+3) Excluir pessoa do sistema. Exemplo: excluirpessoa
+4) Exibir todos os tripulantes com vagas em aberto. Exemplo: exibir
+5) Finalizar a execucao de comandos. Exemplo: fim
+Obs: so eh possivel excluir pessoas quando elas nao pertencem a nenhum aviao. Nao eh possivel inserir uma pessoa em um aviao a qual a mesma pertence.
+
+Digitado: incluirpessoas
+
+
+Digite a QUANTIDADE de pessoas que deseja inserir.
+Digitado: 3
+Digite o ID da pessoa o seu NOME. Exemplo: 3 Jose Manuel
+Digitado: 1 Pessoa1
+Digite o ID da pessoa o seu NOME. Exemplo: 3 Jose Manuel
+Digitado: 2 Pessoa2
+Digite o ID da pessoa o seu NOME. Exemplo: 3 Jose Manuel
+Digitado: 1 Pessoa3
+
+Erro: ID digitado ja existe.
+Digite o ID da pessoa o seu NOME. Exemplo: 3 Jose Manuel
+Digitado: 3 Pessoa3
+Pessoas incluidas com sucesso!
+
+
+Digite a funcao que deseja realizar e os parametros para que ela funcione, as posiveis funcoes sao:
+1) Incluir pessoas no sistema. Exemplo: incluirpessoas
+2) Inserir pessoa em aviao. Exemplo: inserirpessoa
+3) Excluir pessoa do sistema. Exemplo: excluirpessoa
+4) Exibir todos os tripulantes com vagas em aberto. Exemplo: exibir
+5) Finalizar a execucao de comandos. Exemplo: fim
+Obs: so eh possivel excluir pessoas quando elas nao pertencem a nenhum aviao. Nao eh possivel inserir uma pessoa em um aviao a qual a mesma pertence.
+
+Digitado: inserirpessoa
+
+
+Digite o ID da PESSOA que deseja inserir e o ID do TRIPULANTE em que esta pessoa sera inserida.
+Exemplo: 3 1
+Digitado: 1 1
+Pessoa inserida com sucesso!
+
+
+Digite a funcao que deseja realizar e os parametros para que ela funcione, as posiveis funcoes sao:
+1) Incluir pessoas no sistema. Exemplo: incluirpessoas
+2) Inserir pessoa em aviao. Exemplo: inserirpessoa
+3) Excluir pessoa do sistema. Exemplo: excluirpessoa
+4) Exibir todos os tripulantes com vagas em aberto. Exemplo: exibir
+5) Finalizar a execucao de comandos. Exemplo: fim
+Obs: so eh possivel excluir pessoas quando elas nao pertencem a nenhum aviao. Nao eh possivel inserir uma pessoa em um aviao a qual a mesma pertence.
+
+Digitado: inserirpessoa
+
+
+Digite o ID da PESSOA que deseja inserir e o ID do TRIPULANTE em que esta pessoa sera inserida.
+Exemplo: 3 1
+Digitado: 2 1
+Pessoa inserida com sucesso!
+
+
+Digite a funcao que deseja realizar e os parametros para que ela funcione, as posiveis funcoes sao:
+1) Incluir pessoas no sistema. Exemplo: incluirpessoas
+2) Inserir pessoa em aviao. Exemplo: inserirpessoa
+3) Excluir pessoa do sistema. Exemplo: excluirpessoa
+4) Exibir todos os tripulantes com vagas em aberto. Exemplo: exibir
+5) Finalizar a execucao de comandos. Exemplo: fim
+Obs: so eh possivel excluir pessoas quando elas nao pertencem a nenhum aviao. Nao eh possivel inserir uma pessoa em um aviao a qual a mesma pertence.
+
+Digitado: inserirpessoa
+
+
+Digite o ID da PESSOA que deseja inserir e o ID do TRIPULANTE em que esta pessoa sera inserida.
+Exemplo: 3 1
+Digitado: 3 1
+
+ERRO: NAO EH POSSIVEL INSERIR NESTE TRIPULANTE
+Ainda desseja inserir algum passageiro? Digite:sim ou nao.
+Digitado: sim
+Digite o ID da PESSOA que deseja inserir e o ID do TRIPULANTE em que esta pessoa sera inserida.
+Exemplo: 3 1
+Digitado: 3 5
+
+ERRO: ID DE TRIPULANTE INEXISTENTE
+Ainda desseja inserir algum passageiro? Digite:sim ou nao.
+Digitado: sim
+Digite o ID da PESSOA que deseja inserir e o ID do TRIPULANTE em que esta pessoa sera inserida.
+Exemplo: 3 1
+Digitado: 3 2
+Pessoa inserida com sucesso!
+
+
+Digite a funcao que deseja realizar e os parametros para que ela funcione, as posiveis funcoes sao:
+1) Incluir pessoas no sistema. Exemplo: incluirpessoas
+2) Inserir pessoa em aviao. Exemplo: inserirpessoa
+3) Excluir pessoa do sistema. Exemplo: excluirpessoa
+4) Exibir todos os tripulantes com vagas em aberto. Exemplo: exibir
+5) Finalizar a execucao de comandos. Exemplo: fim
+Obs: so eh possivel excluir pessoas quando elas nao pertencem a nenhum aviao. Nao eh possivel inserir uma pessoa em um aviao a qual a mesma pertence.
+
+Digitado: inserirpessoa
+
+
+Digite o ID da PESSOA que deseja inserir e o ID do TRIPULANTE em que esta pessoa sera inserida.
+Exemplo: 3 1
+Digitado: 3 2
+
+ERRO: ESTE PESSAGEIRO JA EXISTE NESTE AVIAO
+Ainda desseja inserir algum passageiro? Digite:sim ou nao.
+Digitado: sim
+Digite o ID da PESSOA que deseja inserir e o ID do TRIPULANTE em que esta pessoa sera inserida.
+Exemplo: 3 1
+Digitado: 5 2
+ERRO: ID DE PESSOA INEXISTENTE
+Ainda desseja inserir algum passageiro? Digite:sim ou nao.
+Digitado: nao
+
+
+Digite a funcao que deseja realizar e os parametros para que ela funcione, as posiveis funcoes sao:
+1) Incluir pessoas no sistema. Exemplo: incluirpessoas
+2) Inserir pessoa em aviao. Exemplo: inserirpessoa
+3) Excluir pessoa do sistema. Exemplo: excluirpessoa
+4) Exibir todos os tripulantes com vagas em aberto. Exemplo: exibir
+5) Finalizar a execucao de comandos. Exemplo: fim
+Obs: so eh possivel excluir pessoas quando elas nao pertencem a nenhum aviao. Nao eh possivel inserir uma pessoa em um aviao a qual a mesma pertence.
+
+Digitado: exibir
+2
+4
+3
+
+
+Digite a funcao que deseja realizar e os parametros para que ela funcione, as posiveis funcoes sao:
+1) Incluir pessoas no sistema. Exemplo: incluirpessoas
+2) Inserir pessoa em aviao. Exemplo: inserirpessoa
+3) Excluir pessoa do sistema. Exemplo: excluirpessoa
+4) Exibir todos os tripulantes com vagas em aberto. Exemplo: exibir
+5) Finalizar a execucao de comandos. Exemplo: fim
+Obs: so eh possivel excluir pessoas quando elas nao pertencem a nenhum aviao. Nao eh possivel inserir uma pessoa em um aviao a qual a mesma pertence.
+
+Digitado: fim
